@@ -4,7 +4,6 @@ In this project, we will be building a Multiple Disease Prediction System using 
 
 This web app can predict the diseases such as Diabetes, heart disease, and Parkinson's using Machine Learning and further we will try to add more diseases to this project.
 
-Video Link: https://drive.google.com/file/d/1qArBdbxKzYj1wACbYRLtkkSetJQMeMAX/view?usp=share_link
 
 ![Screenshot (1676)](https://user-images.githubusercontent.com/37697073/201569258-acc2ddda-f8d7-4383-81cf-57d98aa366fe.png)
 ![Screenshot (1677)](https://user-images.githubusercontent.com/37697073/201569281-51d4e28c-1541-4059-b47e-387449355ace.png)
